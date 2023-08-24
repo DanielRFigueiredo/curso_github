@@ -1,0 +1,3 @@
+function cadastr(){
+  return 'cdastro'
+}
